@@ -23,7 +23,7 @@ In the command line open the mysql shell and run "SOURCE schema.sql", then run q
 This link will take you to a walkthough video showing how to test the routes.
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    https://watch.screencastify.com/v/lo3mmPZecH4TPD3BHuP4
     ```
 
 ## License
